@@ -1,10 +1,14 @@
 {
-  "dominio": "streaming-community.army",
+  "dominio": "streaming-community.id",
   "ultimo_controllo": "2026-11-23",
   "storico": [
     {
       "data": "2026-11-16",
       "dominio": "streaming-community.army"
+    },
+    {
+      "data": "2026-11-23",
+      "dominio": "streaming-community.id"
     }
   ]
 }
